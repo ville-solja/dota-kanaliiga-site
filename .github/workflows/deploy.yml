@@ -34,6 +34,13 @@ jobs:
           git clone https://$GITHUB_ACTOR:${{ secrets.VAULT_TOKEN }}@github.com/ville-solja/Obsidian-Dota.git temp-vault
           rm -rf content/*
           rsync -av --exclude=package.json --exclude=package-lock.json temp-vault/ content/
+
+      - name: Debug – Check content folder
+        run: |
+          echo "Current working directory: $(pwd)"
+          ls -la
+          ls -R content
+          find content -name '*.md' | wc -l
           
       - name: Install Dependencies
         run: npm install
