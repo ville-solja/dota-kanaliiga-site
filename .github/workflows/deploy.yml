@@ -29,7 +29,7 @@ jobs:
       - name: Clone vault repo and sync to content/
         run: |
           git clone https://$GITHUB_ACTOR:${{ secrets.VAULT_TOKEN }}@github.com/ville-solja/Obsidian-Dota.git temp-vault
-          rm -rf content/*
+          rm -rf quartz/content/*
           rsync -av --exclude=package.json --exclude=package-lock.json temp-vault/ content/
           
       - name: Install Dependencies
