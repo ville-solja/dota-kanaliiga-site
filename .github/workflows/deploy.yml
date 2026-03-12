@@ -29,17 +29,17 @@ jobs:
       - name: Clone vault repo and sync to content/
         run: |
           git clone https://$GITHUB_ACTOR:${{ secrets.VAULT_TOKEN }}@github.com/ville-solja/Obsidian-Dota.git temp-vault
-          rm -rf quartz/content/*
+          rm -rf content/*
           rsync -av --exclude=package.json --exclude=package-lock.json temp-vault/ content/
           
       - name: Install Dependencies
         run: npm install
         
       - name: Build Quartz
-        run: npx quartz build
+        run: npm run build
         
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: quartz/public
+          publish_dir: ./public
