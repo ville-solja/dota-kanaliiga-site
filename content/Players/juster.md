@@ -1,1 +1,0 @@
-https://www.dotabuff.com/players/507194

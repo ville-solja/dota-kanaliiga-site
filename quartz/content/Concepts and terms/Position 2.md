@@ -1,5 +1,0 @@
----
-aliases:
-  - Mid
-  - Pos2
----

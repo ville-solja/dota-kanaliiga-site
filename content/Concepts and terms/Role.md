@@ -1,5 +1,0 @@
-[[Position 1]]
-[[Position 2]]
-[[Position 3]]
-[[Position 4]]
-[[Position 5]]
