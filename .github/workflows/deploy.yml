@@ -2,7 +2,7 @@ name: Build & Deploy Quartz Site
 
 on:
   schedule:
-    - cron: '0 3 * * *'  # Nightly at 03:00 UTC
+    - cron: '0 3 * * *' # Nightly at 03:00 UTC
   workflow_dispatch:
   push:
 permissions:
