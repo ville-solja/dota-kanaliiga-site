@@ -22,9 +22,12 @@ jobs:
         with:
           fetch-depth: 0 # Fetch all history for git info
         
-      - uses: actions/setup-node@v6
+      - name: Set up Node.js 22
+        uses: actions/setup-node@v6
         with:
-          node-version: 22
+          node-version: '22'
+          check-latest: true
+          cache: 'npm'
           
       - name: Clone vault repo and sync to content/
         run: |
