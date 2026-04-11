@@ -1,7 +1,4 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://quartz.jzhao.xy/Concepts-and-terms/Bind</loc>
-    <lastmod>2026-03-11T12:26:49.000Z</lastmod>
-  </url><url>
     <loc>https://quartz.jzhao.xy/Concepts-and-terms/Kanaliiga</loc>
     <lastmod>2026-03-20T07:37:14.000Z</lastmod>
   </url><url>
@@ -9,13 +6,13 @@
     <lastmod>2026-03-11T12:26:49.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xy/Concepts-and-terms/Position-1</loc>
-    <lastmod>2026-03-11T12:26:49.000Z</lastmod>
+    <lastmod>2026-04-10T06:31:21.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xy/Concepts-and-terms/Position-2</loc>
-    <lastmod>2026-03-11T12:26:49.000Z</lastmod>
+    <lastmod>2026-04-10T06:31:21.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xy/Concepts-and-terms/Position-3</loc>
-    <lastmod>2026-03-11T12:26:49.000Z</lastmod>
+    <lastmod>2026-04-10T06:31:21.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xy/Concepts-and-terms/Position-4</loc>
     <lastmod>2026-03-11T12:26:49.000Z</lastmod>
@@ -26,23 +23,53 @@
     <loc>https://quartz.jzhao.xy/Concepts-and-terms/Power-Rune</loc>
     <lastmod>2026-03-12T12:05:13.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xy/Concepts-and-terms/Questions</loc>
+    <lastmod>2026-04-10T06:31:21.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xy/Concepts-and-terms/Role</loc>
     <lastmod>2026-03-11T12:26:49.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xy/Concepts-and-terms/S15</loc>
+    <lastmod>2026-04-10T07:14:49.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xy/Concepts-and-terms/Starting-items</loc>
     <lastmod>2026-03-11T12:26:49.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xy/Concepts-and-terms/Team-composition</loc>
+    <lastmod>2026-04-10T06:31:21.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xy/Concepts-and-terms/Waveclear</loc>
     <lastmod>2026-03-11T12:26:49.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xy/Concepts-and-terms/Win-condition</loc>
+    <lastmod>2026-04-10T07:14:49.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xy/Concepts-and-terms/Wisdom</loc>
     <lastmod>2026-03-20T04:51:49.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xy/Heroes/Crystal-Maiden</loc>
+    <lastmod>2026-04-10T07:14:49.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xy/Heroes/Nightstalker</loc>
-    <lastmod>2026-04-02T08:23:24.000Z</lastmod>
+    <lastmod>2026-04-10T06:52:57.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xy/Heroes/Shadow-Shaman</loc>
+    <lastmod>2026-04-10T07:04:58.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xy/Heroes/Treant-Protector</loc>
     <lastmod>2026-03-11T12:26:49.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xy/Items/Atos</loc>
+    <lastmod>2026-04-10T06:31:21.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xy/Items/Eul</loc>
+    <lastmod>2026-04-10T06:31:21.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xy/Items/Force</loc>
+    <lastmod>2026-04-10T06:31:21.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xy/Items/Orchid</loc>
+    <lastmod>2026-04-10T06:31:21.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xy/Players/Bansku</loc>
     <lastmod>2026-03-11T12:26:49.000Z</lastmod>
@@ -167,8 +194,8 @@
     <loc>https://quartz.jzhao.xy/README</loc>
     <lastmod>2026-03-12T10:57:12.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xy/S15</loc>
-    <lastmod>2026-03-20T08:28:24.000Z</lastmod>
+    <loc>https://quartz.jzhao.xy/Statuses/Bind</loc>
+    <lastmod>2026-04-10T06:31:21.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xy/Teams/Elisa-Appelsiini</loc>
     <lastmod>2026-03-20T07:56:01.000Z</lastmod>
@@ -192,5 +219,5 @@
     <lastmod>2026-03-29T20:26:49.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xy/</loc>
-    <lastmod>2026-03-24T05:06:16.000Z</lastmod>
+    <lastmod>2026-04-10T07:14:49.000Z</lastmod>
   </url></urlset>
